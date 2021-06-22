@@ -9,7 +9,7 @@
 :: Workflow ::
 </h3>
 <p align="center">
-<img src=".imgs/wf.gif"/>
+<img src="imgs/wf.gif"/>
 </p>
 
 ## Installation :
