@@ -3,7 +3,14 @@
 ### [+] Disclaimer :
 ***Fake Mailer is tool to Send Mail Anonymously from a different Email.This process can take upto 5 mins. This tool is created for Educational Purpose Only !! I am not responsible for any Misuse of this tool !!***
 
-![Fake Mailer](#)
+##
+
+<h3 align="center">
+:: Workflow ::
+</h3>
+<p align="center">
+<img src=".imgs/wf.gif"/>
+</p>
 
 ## Installation :
 * `apt update`
